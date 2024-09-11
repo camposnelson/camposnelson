@@ -3,7 +3,7 @@
         <img src="/banner-dark.png" />
         </p>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70E3F&center=verdadero&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=%C2%A1Hola+y+bienvenidos+a+mi+espacio!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70E3F&center=verdadero&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=%C2%A1Hola+y+bienvenidos+a+mi+espacio!)](https://git.io/typing-svg)
 <br><br>Soy ingeniero informático con una gran pasión por la tecnología y las soluciones innovadoras. Mi curiosidad sin límites me ha llevado a explorar diversas áreas dentro de la informática. Me considero una persona en constante evolución, siempre buscando aprender algo nuevo y mejorar mis habilidades para dar lo mejor en cada proyecto. Esta web es mi rincón personal donde comparto mis conocimientos, proyectos y avances, ¡y espero que disfrutes explorando tanto como yo disfruto creando!
 
 # 💻 Conocimiento técnico:
