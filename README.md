@@ -56,11 +56,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
         <tr>
             <td align="left">🔵 Blue Team</td>
             <td>
-                <img src="https://img.shields.io/badge/Cytomic-%235E3079.svg?style=flat&logo=Cytomic&logoColor=white" alt="Cytomic">
-                <img src="https://img.shields.io/badge/IBM MaaS360-%23052FAD.svg?style=flat&logo=IBM&logoColor=white" alt="IBM MaaS360">
-                <br>
-                <img src="https://img.shields.io/badge/Trend%20Micro-%23D71921.svg?style=flat&logo=trend-micro&logoColor=white" alt="Trend Micro">
-                <img src="https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=flat&logo=virustotal&logoColor=white" alt="Virus Total">
             </td>
             <td>
             </td>
