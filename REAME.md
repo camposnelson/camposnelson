@@ -4,6 +4,10 @@
         <img src=".github/readme/banner-dark.png#gh-dark-mode-only" alt="Banner (oscuro)" />
     </p>
   </div>
+  $$
+\huge\text{Mi objetivo es aumentar mi valor y el de los que me rodean.}
+$$
+
 # 💫 About Me:
 ¡Hola y bienvenidos a mi espacio!<br><br>Soy ingeniero informático, programador y técnico, con una gran pasión por la tecnología y las soluciones innovadoras. Mi curiosidad sin límites me ha llevado a explorar áreas como la ciberseguridad, donde Kali Linux se ha convertido en mi compañero favorito para realizar análisis y auditorías.<br><br>Me considero una persona en constante evolución, siempre buscando aprender algo nuevo y mejorar mis habilidades para dar lo mejor en cada proyecto. Esta web es mi rincón personal donde comparto mis conocimientos, proyectos y avances. ¡Espero que disfrutes explorando tanto como yo disfruto creando!
 
