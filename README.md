@@ -66,8 +66,6 @@ La siguiente tabla representa mi experiencia e intereses sobre distintas ramas d
             </td>
             <td>
                 <br>
-                <img src="https://img.shields.io/badge/Wazuh-%233AABE6.svg?style=flat&logo=wazuh&logoColor=white" alt="Wazuh">
-                <img src="https://img.shields.io/badge/Zeek-%232980B9.svg?style=flat&logo=zeek&logoColor=black" alt="Zeek">
             </td>
         </tr>
     </tbody>
