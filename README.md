@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-        <img src="https://raw.githubusercontent.com/nelsonmanuelcampos/nelsonmanuelcampos/main/banner-dark.png#gh-light-mode-only" alt="Banner (claro)" />
+        <img src="https://raw.githubusercontent.com/nelsonmanuelcampos/nelsonmanuelcampos/main/banner-dark.png" alt="Banner (claro)" />
         
     </p>
 </div>
