@@ -1,7 +1,7 @@
 <div>
     <p align="center">
-        <img src=".github/banner-light.png#gh-light-mode-only" alt="Banner (claro)" />
-        <img src=".github/banner-dark.png#gh-dark-mode-only" alt="Banner (oscuro)" />
+        <img src=".github/banner-dark.png#gh-light-mode-only" alt="Banner (claro)" />
+        
     </p>
 </div>
 # 💫 About Me:
