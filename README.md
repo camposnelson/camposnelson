@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-        <img src="nelsonmanuelcampos/main/banner-dark.png" />
+        <img src="/main/banner-dark.png" />
         </p>
 </div>
 # 💫 About Me:
